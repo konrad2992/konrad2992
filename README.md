@@ -1,6 +1,5 @@
 # 💫 About Me:
-Living in Wroclaw, Poland 🇵🇱<br>
-High school student 👽
+Living in Wroclaw, Poland 🇵🇱<br>High school student 👽
 
 
 # 💻 Tech Stack:
@@ -15,5 +14,11 @@ High school student 👽
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=konrad2992&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=konrad2992&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
