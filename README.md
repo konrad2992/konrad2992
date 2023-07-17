@@ -1,4 +1,4 @@
-## Witaj na moim profilu!
+### Witaj na moim profilu!
 # 💫 O mnie:
 Mieszkam we Wrocławiu 🇵🇱<br>Uczeń szkoły wyższej 👽
 
