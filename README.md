@@ -1,6 +1,7 @@
 # Witaj na moim profilu!
 ### 💫 O mnie:
-Mieszkam we Wrocławiu ⚒️ <br>Uczeń szkoły wyższej 👽
+Mieszkam we Wrocławiu ⚒️ <br>
+Uczeń szkoły wyższej 👽
 
 ### 💻 Technologie używane:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,wordpress,html,css,php,js,discord,bots,nodejs,py,figma&theme=dark)](https://skillicons.dev)
